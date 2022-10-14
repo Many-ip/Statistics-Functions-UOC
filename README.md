@@ -20,7 +20,7 @@ git clone https://github.com/Many-ip/Statistics-Functions-UOC
 ```
 pd(values,redondear)
 ```
-La funcion pd permite saber el resultado de la desviacion estandar poblacional de una cadena de valores.
+La funcion pd permite saber el resultado de la desviacion estándar poblacional de una cadena de valores.
 values es un argumento obligatorio, el cual se debe poner la cadena de valores.
 redondear es un argumento opcional, el cual de forma predefinida hace un redondeo de 3 decimales.
 
@@ -40,8 +40,8 @@ La funcion do_all es una funcion completa que muestra al usuario:
 * Q1
 * Mediana
 * Q3
-* Desviación estandar poblacional
-* Desviacion estandar muestral
+* Desviación estándar poblacional
+* Desviacion estándar muestral
 
 values es un argumento obligatorio, el cual se debe poner la cadena de valores.
 redondear es un argumento opcional, el cual de forma predefinida hace un redondeo de 3 decimales.
